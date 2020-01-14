@@ -1,0 +1,23 @@
+*{
+    padding:0;
+    margin:0;
+    outline: 0;
+}
+.bg-custom{
+    background-color: #6693d9;
+}
+.element{
+    background-color: #a8bfe3;
+}
+.element p{
+    margin-top:15px;
+}
+.element h3{
+    padding-top: 6px;;
+}
+.custom-height{
+    height: 150px;
+}
+.advertise{
+    background-color: #f2f263;
+}
